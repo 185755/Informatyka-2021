@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+  enemy.cpp
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\enemy.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  game.cpp
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\pocisk.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
+  menu.cpp
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\menu.cpp(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  player.cpp
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\pocisk.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
+  pocisk.cpp
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\pocisk.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
+  Źródło.cpp
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\pocisk.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
