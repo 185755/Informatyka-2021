@@ -47,7 +47,7 @@ Follow these steps to get the game up and running:
 
 1. **Clone the repository:**
    bash
-   git clone https://github.com/yourusername/shape-shooter.git
+   git clone https://github.com/185755/Informatyka-2021.git
    cd shape-shooter
 2. **Navigate to the solution file**:  
    Go to the following path in your project folder:  
