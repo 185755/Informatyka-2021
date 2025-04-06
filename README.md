@@ -71,3 +71,14 @@ Follow these steps to get the game up and running:
    - **Shoot**: Press the **Spacebar** to shoot.
    - **Health**: Avoid falling shapes or destroy them before they reach you. If shapes pass by or hit you, you lose health.
    - **Points**: Destroying shapes gives you points.
+   
+ ---
+## ⚠️ SFML Configuration Issues
+
+If you encounter issues setting up SFML or linking it with your project, don't worry! This is a common problem, especially when working with external libraries like SFML.
+
+Here’s a helpful YouTube tutorial that walks you through the setup process step by step:
+
+🔗 [SFML Setup Tutorial](https://www.youtube.com/watch?v=A5tXaXa_Tss)
+
+Following this guide should help you resolve any configuration issues and get the game running smoothly.
