@@ -1,13 +1,29 @@
 ﻿  ConsoleApplication1.cpp
   enemy.cpp
-E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\enemy.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\enemy.cpp(5,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
   game.cpp
-E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\pocisk.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\game.cpp(129,57): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\game.cpp(329,35): warning C4244: "+=": konwersja z "float" do "unsigned int", możliwa utrata danych
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\game.cpp(339,34): warning C4244: "-=": konwersja z "float" do "int", możliwa utrata danych
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\game.cpp(550,51): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\game.cpp(565,48): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
   menu.cpp
-E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\menu.cpp(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
   player.cpp
-E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\pocisk.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\player.cpp(15,49): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
   pocisk.cpp
-E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\pocisk.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
   Źródło.cpp
-E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\pocisk.h(5,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/System.hpp': No such file or directory
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\Źródło.cpp(27,48): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\ConsoleApplication1\Źródło.cpp(27,28): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 564 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  ConsoleApplication1.vcxproj -> E:\Portfolio\Informatyka-2021\Inf_Gra_Corrected\informatyka_2021_projekt-main\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
